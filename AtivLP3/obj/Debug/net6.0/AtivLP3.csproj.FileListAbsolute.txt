@@ -1,0 +1,14 @@
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\bin\Debug\net6.0\AtivLP3.exe
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\bin\Debug\net6.0\AtivLP3.deps.json
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\bin\Debug\net6.0\AtivLP3.runtimeconfig.json
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\bin\Debug\net6.0\AtivLP3.dll
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\bin\Debug\net6.0\AtivLP3.pdb
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\obj\Debug\net6.0\AtivLP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\obj\Debug\net6.0\AtivLP3.AssemblyInfoInputs.cache
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\obj\Debug\net6.0\AtivLP3.AssemblyInfo.cs
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\obj\Debug\net6.0\AtivLP3.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\obj\Debug\net6.0\AtivLP3.dll
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\obj\Debug\net6.0\refint\AtivLP3.dll
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\obj\Debug\net6.0\AtivLP3.pdb
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\obj\Debug\net6.0\AtivLP3.genruntimeconfig.cache
+C:\Users\Familia\source\repos\AtivLP3\AtivLP3\obj\Debug\net6.0\ref\AtivLP3.dll
